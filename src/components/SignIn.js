@@ -11,6 +11,7 @@ import {addContact} from '../firebaseConfig';
 import Stack from '@mui/material/Stack';
 
 const SignIn = () => {
+  console.log('TESTING Git Commit')
 
   const [showModal, setShowModal] = useState(false);
 
