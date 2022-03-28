@@ -27,7 +27,6 @@ const SignIn = () => {
   );
 
   const handleOpen = () => {
-    console.log('True');
     setShowModal(true);
   };
 
